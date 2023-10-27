@@ -14,6 +14,7 @@ Each finger is responsible for specific keys. For example:
 - Right ring finger: L
 - Right pinky: ;
 
+![keyboard](https://pin.it/2kG70Ji)
 
 TypeIt helps you memorize these assignments to develop muscle memory.
 
