@@ -21,3 +21,8 @@ TypeIt helps you memorize these assignments to develop muscle memory.
 - Sit up straight with your feet flat on the floor.
 - Maintain a comfortable distance from the keyboard and monitor.
 - Keep your fingers relaxed and avoid excessive force when pressing keys.
+
+# Usage
+- Select a programming language or the 'not a programmer' option.
+- Select a support type.
+- Start typing.
